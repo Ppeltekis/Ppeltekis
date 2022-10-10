@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Ppeltekis
+- 🌱 I’m currently learning Java
+- 📫 How to reach me ...
