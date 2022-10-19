@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ppeltekis
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java,SQL
 
